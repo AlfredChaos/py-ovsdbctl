@@ -345,6 +345,7 @@ class vpc(object):
 
 
 router = "develop"
+# ovirt管理页面网络的外部ID
 external_network = "928262e8-d7f6-4f4a-b829-89efcbc5e230"
 vpc_network = "7a55719c-3314-46fe-86c8-2d842df564c5"
 vpc_gateway_cidr = "192.168.1.1/24"
